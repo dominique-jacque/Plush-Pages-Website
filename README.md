@@ -1,4 +1,4 @@
-# Plush-Pages-Website
+# Plush Pages Website
 ShopPlushPages.com is designed to showcase how to build and host a fully static website on AWS with scalable and secure features. The website also incorporates CloudFront for faster content delivery and a dedicated S3 bucket for access logs.  
 
 ## Features
