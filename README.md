@@ -8,6 +8,10 @@ ShopPlushPages.com is designed to showcase how to build and host a fully static 
 - **CloudFront Integration:** A CloudFront distribution provides faster content delivery and HTTPS security.
 - **Access Logging:** A dedicated S3 bucket stores CloudFront logs for tracking and monitoring.
 
+## Architectural Diagram
+
+![image](https://github.com/user-attachments/assets/58fcae14-6987-49c3-953d-e66470285a08)
+
 ## Setup Instructions
 
 ### Prerequisites
